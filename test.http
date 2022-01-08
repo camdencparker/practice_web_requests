@@ -1,0 +1,3 @@
+GET https://api.wordnik.com/v4/word.json/basset/pronunciations?useCanonical=false&limit=50&api_key=64e90a58d89a8e7f3f000001fe809d0cd55d32cb45b9f117e
+tex saves factory
+3m 
